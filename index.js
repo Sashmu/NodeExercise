@@ -1,6 +1,6 @@
 const chalk = require('chalk');
 
 console.log(chalk.blue('Pallavi'));
-console.log(chalk.blue('Victor'));
-console.log(chalk.blue('Natalie'));
-console.log(chalk.blue('Salvo'));
+console.log(chalk.green('Victor'));
+console.log(chalk.yellow('Natalie'));
+console.log(chalk.cyan('Salvo'));
